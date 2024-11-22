@@ -1,5 +1,5 @@
 # Define the image name
-IMAGE_NAME = Bazinga
+IMAGE_NAME = bazinga
 DOCKER_ID_USER = cathylyirang
 
 # Build the Docker image

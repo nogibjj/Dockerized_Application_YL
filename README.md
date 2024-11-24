@@ -1,3 +1,5 @@
+[![Build and Push Docker Image](https://github.com/nogibjj/Dockerized_Application_YL/actions/workflows/build.yml/badge.svg)](https://github.com/nogibjj/Dockerized_Application_YL/actions/workflows/build.yml)
+
 # Dockerized_Application_YL
 
 ## Purpose
